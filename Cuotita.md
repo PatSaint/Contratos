@@ -26,6 +26,8 @@ Usamos estos datos para:
 - Atender solicitudes de soporte, consultas o reclamos.
 - Mejorar la estabilidad, seguridad y experiencia de uso.
 
+Cuotita no procesa pagos directamente, no recibe ni custodia dinero de los usuarios, no actúa como entidad financiera, no ofrece préstamos y no funciona como billetera digital, pasarela de pago ni servicio bancario. La plataforma se utiliza únicamente como una herramienta digital de registro, seguimiento, organización y transparencia, similar a una hoja de cálculo o tabla de control en línea para actividades, aportes y movimientos reportados por los propios usuarios.
+
 ## 3. Compartición de datos
 
 Cuotita no vende datos personales a terceros.
@@ -35,6 +37,8 @@ Los datos pueden ser tratados por proveedores tecnológicos necesarios para oper
 ## 4. Seguridad
 
 Aplicamos medidas razonables de seguridad para proteger la información. Sin embargo, ninguna plataforma puede garantizar un riesgo cero.
+
+Debido a que Cuotita no interviene en la recepción, custodia, transferencia ni ejecución del dinero reportado por los usuarios, la plataforma no asume responsabilidad por pérdidas económicas, errores de cálculo, registros incorrectos, omisiones, decisiones financieras, incumplimientos entre participantes o cualquier diferencia derivada de la administración real de fondos por parte de terceros. Cada usuario o responsable del grupo debe verificar de manera independiente la exactitud de la información que registra y la gestión efectiva de los recursos fuera de la plataforma.
 
 ## 5. Conservación de datos
 
